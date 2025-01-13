@@ -7,7 +7,7 @@ This repo currently supports saving all your Favorited (saved) posts to your loc
 - Clone this repo:
     - if you have git installed (reccomended)
         ```
-        git clone []
+        git clone https://github.com/yonmaor1/ttdl.git
         cd ttdl
         ```
     - if you don't have git installed, save this as a zip and unzip it somewhere, then `cd path\to\ttdl`
