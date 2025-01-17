@@ -23,10 +23,10 @@ This repo currently supports saving all your Favorited (saved) posts to your loc
 - you are now ready to run the script
 
 
-## Save your Favorited (saved) videos: ttdl-faves.py
+## Save your Favorited (saved) videos: save.py
 ```
 Usage:
-    python ttdl-faves.py -u <username> -o <output_directory>
+    python save.py -u <username> -o <output_directory>
 
 Arguments:
     -u, --handle: The handle of the user whos favorites you want to save.
